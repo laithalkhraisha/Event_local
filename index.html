@@ -1,0 +1,27 @@
+<form id="createEventForm" action="http://localhost:3000/event/update?id=3" method="post" enctype="multipart/form-data" >
+    <label for="event_name">Event Name:</label>
+    <input type="text" id="event_name" name="event_name" required><br>
+
+    <label for="location">Location:</label>
+    <input type="text" id="location" name="location" required><br>
+
+    <label for="date">Date:</label>
+    <input type="datetime-local" id="date" name="date" required><br>
+
+    <label for="tickets">Tickets:</label>
+    <input type="number" id="tickets" name="tickets" required><br>
+
+    <label for="price">Price:</label>
+    <input type="number" id="price" name="price" required><br>
+
+    <label for="image">Image URL:</label>
+    <input type="file" id="image" accept="/image" name="image"><br>
+
+    <label for="category_id">Category ID:</label>
+    <input type="number" id="category_id" name="category_id"><br>
+
+    <label for="speaker">Speaker:</label>
+    <input type="text" id="speaker" name="speaker" required><br>
+
+    <button type="submit">Create Event</button>
+  </form>
