@@ -20,9 +20,9 @@ Our development stack is carefully selected to ensure a robust and efficient imp
 
 ## Link:
 
-[Organization Link](https://github.com/laithalkhraisha/Event_local)
-[figma](https://github.com/laithalkhraisha/Event_local)
-[doc](https://github.com/laithalkhraisha/Event_local)
-[trello](https://github.com/laithalkhraisha/Event_local)
-[prestation](https://github.com/laithalkhraisha/Event_local)
-[brif](https://github.com/laithalkhraisha/Event_local)
+- [Organization Link](https://github.com/laithalkhraisha/Event_local)
+- [figma](https://github.com/laithalkhraisha/Event_local)
+- [doc](https://github.com/laithalkhraisha/Event_local)
+- [trello](https://github.com/laithalkhraisha/Event_local)
+- [prestation](https://github.com/laithalkhraisha/Event_local)
+- [brif](https://github.com/laithalkhraisha/Event_local)
